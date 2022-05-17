@@ -2,11 +2,25 @@
 
 ## 喇叭功能模块
 
-1.  设置颜色 
-2.  设置发送的内容 (支持彩色)
-3.  自定发送时间 
-4.  自定义屏蔽脏话
+1. 设置颜色 
+
+   ![](https://npm.elemecdn.com/bukkiphoto@1.0.0/img/1.png)
+
+2. 设置发送的内容 (支持彩色)
+
+   ![](https://npm.elemecdn.com/bukkiphoto@1.0.0/img/2.png)
+
+3. 自定发送时间 
+
+   ![](https://npm.elemecdn.com/bukkiphoto@1.0.0/img/3.png)
+
+4. 自定义屏蔽脏话
+
+   ![](https://npm.elemecdn.com/bukkiphoto@1.0.0/img/4.png)
+
 5. 自定义发送间隔时间
+
+![](https://npm.elemecdn.com/bukkiphoto@1.0.0/img/5.png)
 
 ## 喇叭Task
 
@@ -19,6 +33,15 @@
 ## 喇叭便捷功能模块
 
 1. 支持Tab补全命令
-2. 支持自动补全要选择的颜色
-3. 便捷式的刷新内容
 
+   ![](https://npm.elemecdn.com/bukkiphoto@1.0.0/img/6.png)
+
+2. 支持自动补全要选择的颜色
+
+   ![](https://npm.elemecdn.com/bukkiphoto@1.0.0/img/7.png)
+
+3. 便捷式的刷新内容 (这自己体会就完啦~)
+
+## 喇叭发送功能呈现
+
+![](https://npm.elemecdn.com/bukkiphoto@1.0.0/img/8.png)
