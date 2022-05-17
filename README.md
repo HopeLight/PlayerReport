@@ -50,4 +50,6 @@
 
 ## 喇叭插件下载地址：
 
+前置需要: [BossBarAPI]、[Economy]、[PlayerPoints]
+
 Github:  [HopeLight/PlayerReport: [玩家喇叭\] PlayerReport (github.com)](https://github.com/HopeLight/PlayerReport)
