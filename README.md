@@ -1,4 +1,8 @@
-# PlayerReport
+# 							PlayerReport
+
+------
+
+
 
 ## 喇叭功能模块
 
@@ -22,13 +26,29 @@
 
 ![](https://npm.elemecdn.com/bukkiphoto@1.0.0/img/5.png)
 
+
+
+------
+
+
+
 ### 喇叭Task
 
 1. 检查Cache自动清理
+
 2. 检查发送内容当中是否含有脏话
+
 3. 检查设置的颜色是否为正确选项
+
 4. 检查是否有足够的Money/Point来使用喇叭
+
 5. 检查控制发送喇叭的时间间隔
+
+   
+
+------
+
+
 
 ### 喇叭便捷功能模块
 
@@ -42,9 +62,31 @@
 
 3. 便捷式的刷新内容 (这自己体会就完啦~)
 
+   
+
+------
+
+
+
 ### 喇叭发送功能呈现
 
 ![](https://npm.elemecdn.com/bukkiphoto@1.0.0/img/8.png)
+
+------
+
+
+
+## 实验版本(以下全部可以食用) 
+
+Paper [1.12.2] [1.11.2] 
+
+CatServer [1.12.2] [1.11.2] 
+
+Spigot [1.12.2] [1.11.2] [1.9]
+
+
+
+------
 
 
 
@@ -52,4 +94,9 @@
 
 前置需要: [BossBarAPI]、[Economy]、[PlayerPoints]
 
-Github:  [HopeLight/PlayerReport: [玩家喇叭\] PlayerReport (github.com)](https://github.com/HopeLight/PlayerReport)
+Github:  [玩家喇叭\] PlayerReport (github.com)](https://github.com/HopeLight/PlayerReport)
+
+
+
+
+
