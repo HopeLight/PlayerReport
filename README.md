@@ -92,11 +92,16 @@ Spigot [1.12.2] [1.11.2] [1.9]
 
 ## 喇叭插件下载地址：
 
-前置需要: [BossBarAPI]、[Economy]、[PlayerPoints]
+前置依赖: 
 
-Github:  [玩家喇叭\] PlayerReport (github.com)](https://github.com/HopeLight/PlayerReport)
+[BossBarAPI]、[Vault]、[Economy]、[PlayerPoints]
 
+Github: 
 
+https://github.com/HopeLight/PlayerReport
 
+File:
 
+https://npm.elemecdn.com/bukkiphoto@1.0.1/file/BossBarAPI.jar
 
+https://npm.elemecdn.com/bukkiphoto@1.0.1/file/PlayerReport.jar
